@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e22e840d1f6aa4b4ea6bc88f35e412a1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - asteroid: {fileID: 1206362514246250, guid: 8ce6eff17c27fb14993453659db0903d, type: 2}
+  - planet: {fileID: 1768651784690522, guid: 106f7fbd87054ea49a1eacf0ec6d1755, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
